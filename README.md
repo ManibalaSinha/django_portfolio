@@ -2,7 +2,7 @@
 
 #  Django Portfolio
 
-A dynamic and responsive **personal portfolio website**, built with **Django**, styled with **Bootstrap**, and designed to showcase your skills, projects, blog entries, and more.
+A dynamic and responsive **personal portfolio website**, built with **Django**, styled with **Bootstrap**, and designed projects, blog entries, and more.
 
 ---
 
